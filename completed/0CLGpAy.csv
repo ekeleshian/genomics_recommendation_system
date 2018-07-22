@@ -1,0 +1,11 @@
+Trait Name,Score,Assessment,Connotation,Contributing SNPs,Inhibiting SNPs 
+Caffeine Metabolism Impairment,50,NORMAL,Risky,,
+Dryness,45,NORMAL,Risky,,
+Exploratory Behavior,10,TYPICAL,Positive,rs10176705 rs4680 rs4131099 rs3120665,
+Joint Flexibility,25,TYPICAL,Positive,,rs240736
+Mediterranean Diet Effectiveness,45,TYPICAL,Positive,rs1801133,
+Overall Fitness Benefits,5,TYPICAL,Positive,,
+Overweight Potential,25,NORMAL,Risky,rs4994 rs1042713 rs1421085,
+Poor tanning ability,10,NORMAL,Risky,rs11648785 rs12913832 rs4785763,
+Reading Aptitude,95,ADVANTAGED,Positive,rs4839516 rs17135159 rs13307587 rs11158345 rs349045 rs479526 rs761100 rs10508253,rs11577628 rs3756821
+Seasonality,10,NORMAL,Risky,rs1801260,
